@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Chakraborty</h1>
-<h3 align="center">A passionate aspiring Data Analyst from India</h3>
+<h3 align="center">A passionate tech enthusiast with a strong interest in Java, Python, and Data Analysis. Currently, I'm pursuing my B.Tech in Computer Science and Engineering from St. Thomas' College of Engineering and Technology where I'm honing my skills and exploring various technologies. I enjoy working on projects that involve coding, data manipulation, and deriving insights from complex datasets. Feel free to check out my repositories to see my work and connect with me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozito02&label=Profile%20views&color=0e75b6&style=flat" alt="mozito02" /> </p>
 
